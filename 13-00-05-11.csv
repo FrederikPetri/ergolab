@@ -1,3 +1,3 @@
-neck,low,12,med,32,hig,75
-trunk,low,21,med,54,hig,80
-arm,low,22,med,42,hig,65
+neck,min,8,med,40,low,20
+trunk,min,18,hig,80,low,25
+arm,low,24,min,10,hig,50
